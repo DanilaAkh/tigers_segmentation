@@ -1,0 +1,4 @@
+segmentation-models-pytorch
+pytorch-lightning==1.5.4
+torchtext==0.6.0
+aspose-zip
